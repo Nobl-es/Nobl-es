@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">- 🎓 BSIT Student<br>- 🔧  Currently working with React.js and Next.js for the front-end, integrated with Supabase (PostgreSQL).<br>- 👀 I’m also interested in Web development and AI technology.<br>- 📫 How to reach me: bkrellamas0723@gmail.com</h3>
+<h3 align="left">- 🎓 BSIT Student<br>- 👀 I’m also interested in Web development and AI technology.<br>- 📫 How to reach me: bkrellamas0723@gmail.com</h3>
 
 ###
 
